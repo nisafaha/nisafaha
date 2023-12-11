@@ -4,6 +4,6 @@
 - 🔭 I’m currently working on RoamSriLanka
 - 🌱 I’m currently learning Angular
 
-- 📫 How to reach me: 
+- 📫 How to reach me:
       linkedin - [https://www.linkedin.com/in/nisaf-ahamed-4a9847222/]
       Twitter - [https://twitter.com/mn_nisaf]
