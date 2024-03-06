@@ -5,6 +5,8 @@
 - 🤔 I’m a final year Computer Science Undergraduate @UCSC
 - 🔭 I’m currently working on RoamSriLanka
 - 🌱 I’m currently learning Angular
+- I'm Currently doing my internship
+- I'm Currently working in office github account
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
