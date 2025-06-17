@@ -2,11 +2,9 @@
 
 ### Hi there I'm Nisaf👋
 
-- 🤔 I’m a final year Computer Science Undergraduate @UCSC
-- 🔭 I’m currently working on RoamSriLanka
-- 🌱 I’m currently learning Angular
-- 😊 I'm Currently doing my internship
-- 😀 I'm Currently working in office github account
+- 🤔 I’m a fresh Computer Science graduate @UCSC
+- 🌱 I’m currently learning Go and AWS
+- 😊 I'm Currently working as a Software Engineer
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
